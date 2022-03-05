@@ -1,0 +1,459 @@
+body {
+    background-color: darkgray;
+}
+
+#container-1 {
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+    }
+.abbe3 {
+    border: 1px solid white;
+    background-color: darkblue;
+}
+.follow {
+    text-align: center;
+    color: black;
+}
+#navbar {
+    color: black;
+}
+#navbar ul {
+    padding-left: 150px;
+    list-style: none;
+}
+#navbar li {
+    display: inline;
+}
+
+#navbar a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1 {
+    padding-top: 30px;
+    color: BLACK;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    display: solid;
+    margin-top: 50px;
+}
+.email {
+    text-align: center;
+    color: black;
+}
+.call {
+    text-align: center;
+    color: black;
+}
+.message {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+#contatc {
+    background-image: url(../image/port19.png);
+    image-position: center right;
+}
+#form {
+    padding-left: 20px;
+    margin-top: 150px;
+    font-size: 22px;
+}
+#form input[type="text"] {
+    padding-bottom: 25px;
+    width: 50%;
+    height: 3%;
+    background-color: darkgrey;
+    font-size: 22px;
+}
+#form input[type="textarea"] {
+    width: 40%;
+    padding-right: 50px;
+    box-sizing: border-box;
+    height: 6%;
+    float: right;
+    background-color: darkgrey;
+    font-size: 22px;
+}
+
+.simon {
+    padding-top: 30px;
+    font-size: 25px;
+}
+.interest {
+    padding-top: 0%;
+    font-size: 25px;
+}
+.passion {
+    padding-top: 0%;
+    font-size: 25px;
+}
+.like {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+.com {
+    padding-top: 10px;
+    text-align: center;
+}
+.get {
+    text-align: center;
+    color: gray;
+
+}
+#container-2 {
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+}
+.abb1 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px;
+}
+.abbe2 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px; 
+}
+.chim {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167); 
+}
+.port17 {
+    border: ipx solid white;
+    background-color: aquamarine; 
+}
+.port2 {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167); 
+}
+.port3 {
+    border: ipx solid white;
+    background-color: aquamarine; 
+}
+.role {
+    padding-top: 0%;
+    font-size: 25px;
+}
+.concept {
+    padding-top: 0%;
+    font-size: 25px;
+}
+
+#navbar {
+    color: black;
+}
+#navbar ul {
+    list-style: none;
+    line
+}
+#navbar li {
+    display: inline;
+}
+
+#navbar a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 50px;
+}
+.come {
+    padding-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 0cm;
+}
+.gett {
+    text-align: center;
+    font-size: 25px;
+    color: gray;
+}
+.result {
+    padding-top: 0%;
+    font-size: 25px;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+#container-3 {
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+}
+.role1 {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+.ui {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+.problem {  
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+.result1 {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+.next {
+    padding-top: 0%;
+    text-align: center;
+    font-size: 25px;
+    display: solid;
+}
+.google2 {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167); 
+}
+.port6 {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167); 
+}
+.port7 {
+    border: ipx solid white;
+    background-color: aquamarine; 
+}
+.fb {
+    border: ipx solid white;
+    background-color: rgb(6, 6, 107); 
+}
+#navbar {
+    color: black;
+}
+#navbar ul {
+    padding-left: 150px;
+    list-style: none;
+    line
+}
+#navbar li {
+    display: inline;
+}
+
+#navbar a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.box-3 {
+    border: ipx solid white;
+    background-color: aquamarine; 
+}
+.box {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167);
+}
+.box-1 {
+    border: ipx solid white;
+    background-color: aquamarine;
+}
+.box-2 {
+    border: ipx solid white;
+    background-color: rgb(167, 125, 167);
+}
+
+#container-4 {
+    
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+   
+    margin-left: 300px;
+}
+.shell2 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px;
+}
+.roles {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px; 
+}
+.problem3 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px; 
+}
+.solution3 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px;  
+}
+.result3 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    width: 700px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+    font-size: 25px;  
+}
+.role2 {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+.problem2 {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+    display: solid;
+}
+.solution2 {
+    padding-top: 0%;
+    text-align: left;
+    font-size: 25px;
+}
+    .result1 {
+        padding-top: 0%;
+        text-align: left;
+        font-size: 25px;
+        display: solid;
+}
+
+
+#container-5 {
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+}
+
+    #container-6 {
+    width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+    }
+
+
+    #container-7 {
+        border: 1px solid #ffffff;
+        background-color: white;
+        width: 400px;
+        height: 1470px; 
+        box-sizing: border-box;
+        float: left;
+        color: white;
+    }
+    .boxx {
+        border: 1px solid white;
+        background-image: url(../image/port22.png);
+        background-color: yellow;
+    }
+    .heading {
+        text-align: left;
+        color: white;
+    }
+    }
+    #navbar1 ul {
+        padding-right: 150px;
+        list-style: none;
+    }
+    #navbar1 li {
+        display: inline;
+    }
+    
+    #navbar1 a {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #accurancy {
+        display: inline;
+        float: left;
+    }
+    .accurancy1 {
+        border: 1px white solid;
+        background-color: rgba(3, 141, 95, 0.61);
+        display: inline;
+        float: right;
+        height: 180px;
+        margin-bottom: 0%;]
+        padding-top: 0;
+    }
+    .accurancy {
+        text-align: left;
+        color: white;
+        font-size: 20px;
+    }
+    .check {
+        display: inline;
+    }
+    .read {
+        border: 1px solid white;
+        background-color:  black;
+        color: white;
+        width: 90px;
+    }
+
+    #container-8 {
+        width: 700px;
+    height: 2000px;
+    padding: 25px;
+    color: white;
+    margin-left: 300px;
+    }
